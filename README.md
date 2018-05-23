@@ -8,7 +8,7 @@ Queues
 Arrays
 Linked lists
 
-	Throughout the videos I learned the data structures needed to work with Java. To work with these one should already be familiar with basic principles of programming. These could be primitive data types and wrapper classes. Practicing with arrays is an advantage when working with data structures. 
+	Throughout the videos I learned the data structures needed to work with Java. To work with these one should already be familiar with basic principles of programming. These could be primitive data types and wrapper classes. Practicing with arrays is an advantage when working with data structures.  
 	To work with the data structures you use  the IDE, called NetBeans.
 	First off I learned that data structures are a particular way of storing and organizing data in a computer so that it can be used efficiently. Data structures provide a means to manage large amounts of data efficiently. efficient data structures are a key to designing efficient algorithms.
 	A Stack is an abstract data type or collection where in Push, the addition of data elements to the collection, and Pop, the removal of data elements from the collection, are the major operations performed on the collection. The stack can also be defined as Last in First Out (LIFO).
