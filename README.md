@@ -3,11 +3,11 @@
                                                 Java Data Structures
 
 What to know:
-Stacks 
-Queues 
-Arrays
-Linked lists
-Java Data Structures
+- Stacks 
+- Queues 
+- Arrays
+- Linked lists
+
  
 Throughout the videos I learned the data structures needed to work with Java. To work with these one should already be familiar with basic principles of programming. These could be primitive data types and wrapper classes. Practicing with arrays is an advantage when working with data structures.To work with the data structures you use  the IDE, called NetBeans.
 	First off I learned that data structures are a particular way of storing and organizing data in a computer so that it can be used efficiently. Data structures provide a means to manage large amounts of data efficiently. efficient data structures are a key to designing efficient algorithms.
